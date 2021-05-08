@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Users\\DRAOMAR\\Desktop\\Project VSC"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\Google-Maps-API-master"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Google-Maps-API-master"
+	}
+}
